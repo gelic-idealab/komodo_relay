@@ -12,5 +12,8 @@ module.exports = {
     azure: {
         subscriptionKey: "",
         serviceRegion: ""
-    }
+    },
+    capture: {
+        path: './captures/',
+    },
 };
